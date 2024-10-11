@@ -1,0 +1,9 @@
+What is LoRa!?!?!?!?!?!?
+
+LoRaWAN is the network protocol that links the LoRa signal (sensor data) to the application(s). To put it simply, LoRa is the radio signal that carries the data, and LoRaWAN is the communication protocol that controls and defines how that data is communicated across the network.
+from https://www.korewireless.com/news/lora-vs-lorawan-what-is-the-difference#:~:text=To%20put%20it%20simply%2C%20LoRa,is%20communicated%20across%20the%20network.
+
+https://www.thethingsnetwork.org/docs/lorawan/what-is-lorawan/
+
+https://www.youtube.com/watch?v=jHWepP1ZWTk&ab_channel=VisualElectric
+
